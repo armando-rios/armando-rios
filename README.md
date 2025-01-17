@@ -11,12 +11,12 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on **Fronte
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/armando-rios/dotfiles">
+      <a href="https://github.com/armando-rios/tmux">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=dotfiles&theme=radical" alt="dotfiles repository"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/armando-rios/armando-rios">
+      <a href="https://github.com/armando-rios/codeBytetools">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=armando-rios&theme=radical" alt="armando rios github"/>
       </a>
     </td>
