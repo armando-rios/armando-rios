@@ -12,18 +12,19 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on **Fronte
   <tr>
     <td align="center">
       <a href="https://github.com/armando-rios/tmux">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=tmux&theme=radical" alt="tmux repository"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=tmux&theme=tokyonight" alt="tmux repository"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/armando-rios/codeBytetools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=codeByteTools&theme=radical" alt="codeByteTools github"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=codeByteTools&theme=tokyonight" alt="codeByteTools github"/>
       </a>
     </td>
   </tr>
 </table>
 
 ## 🔥 Core Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,next,tailwind,astro,nodejs,express,mongodb,postgresql,aws,docker,kubernetes,githubactions" alt="Core Skills" />
@@ -31,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on **Fronte
 </p>
 
 ## 🏫 Currently Learning
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,typescript,cs,net,powershell,azure" alt="Learning Skills" />
@@ -41,6 +43,6 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on **Fronte
 
 <p align="center">
   <a href="https://github.com/armando-rios">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armando-rios&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armando-rios&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
