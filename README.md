@@ -60,6 +60,5 @@ An overview of my activity and the languages I use most:
 
 I'm always open to collaborating on interesting projects, sharing knowledge, or simply connecting with other professionals in the field. If you have an idea or just want to say hi, feel free to reach out.
 
--   [Your LinkedIn Profile](https://linkedin.com/in/armando-rios-dev) -   [Your Email Address](mailto:armandorios.dev@gmail.com) ```
+-   [LinkedIn](https://linkedin.com/in/armando-rios-dev) -   [Email](mailto:armandorios.dev@gmail.com)
 
-This version is a direct translation of the one you provided, maintaining the professional tone and structure. Remember to replace the placeholder links in the "Let's Connect" section with your actual LinkedIn profile and email address.
