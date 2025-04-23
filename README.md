@@ -1,48 +1,65 @@
 # 👋 Hi there! I'm Armando Rios
 
-<p align="center">
-  <img src="./banner.png" alt="Banner placeholder"/>
-</p>
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I'm a passionate web developer focused on **Frontend** and **Backend** technologies. My goal is to build scalable and efficient web applications. I love learning new tools and improving my development workflow. Below is a quick overview of my skills and projects.
+Frontend Developer with a growing focus on Backend technologies , dedicated to building high-impact experiences with robust functionality and performance.
 
-## 🌟 Featured Projects
+Constantly evolving toward a Full Stack Developer role, I specialize in optimizing workflows and implementing best coding practices.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/armando-rios/tmux">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=tmux&theme=tokyonight" alt="tmux repository"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/armando-rios/codeBytetools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=armando-rios&repo=codeByteTools&theme=tokyonight" alt="codeByteTools github"/>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-## 🔥 Core Skills
+## 🛠️ Technical Skills
+
+My main technology stack and the tools I actively work with include:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,next,tailwind,astro,nodejs,express,mongodb,postgresql,aws,docker,kubernetes,githubactions" alt="Core Skills" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,astro,nodejs,express,mongodb,postgresql,docker,githubactions" alt="Core Skills" />
   </a>
 </p>
 
-## 🏫 Currently Learning
+---
+
+## 🌱 Always Learning
+
+The world of technology evolves rapidly, and I strive to stay current. Currently, I am dedicating time to explore and deepen my knowledge in areas and technologies such as:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,typescript,cs,net,powershell,azure" alt="Learning Skills" />
+    <img src="https://skillicons.dev/icons?i=next,rust,aws,azure,gcp,kubernetes,cs,net,powershell" alt="Learning Skills" />
   </a>
 </p>
 
-## 📊 GitHub Stats
+---
+
+## ✨ Interests and Focus
+
+Beyond specific technologies, my interests lie in:
+
+-   **Software Architecture:** Designing robust and scalable systems.
+-   **Performance Optimization:** Ensuring applications are fast and efficient.
+-   **Development Best Practices:** Writing clean, testable, and maintainable code.
+-   **Web Security:** Understanding and applying security principles in development.
+-   **Automation:** Improving workflows with tools like GitHub Actions.
+
+---
+
+## 📈 My GitHub Stats
+
+An overview of my activity and the languages I use most:
 
 <p align="center">
   <a href="https://github.com/armando-rios">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armando-rios&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, sharing knowledge, or simply connecting with other professionals in the field. If you have an idea or just want to say hi, feel free to reach out.
+
+-   [Your LinkedIn Profile](https://linkedin.com/in/armando-rios-dev) -   [Your Email Address](mailto:armandorios.dev@gmail.com) ```
+
+This version is a direct translation of the one you provided, maintaining the professional tone and structure. Remember to replace the placeholder links in the "Let's Connect" section with your actual LinkedIn profile and email address.
