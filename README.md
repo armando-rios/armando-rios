@@ -26,7 +26,7 @@ The world of technology evolves rapidly, and I strive to stay current. Currently
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,rust,aws,azure,gcp,kubernetes,cs,net,powershell" alt="Learning Skills" />
+    <img src="https://skillicons.dev/icons?i=next,go,rust,aws,azure,gcp,kubernetes,cs,net,powershell" alt="Learning Skills" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ An overview of my activity and the languages I use most:
 
 <p align="center">
   <a href="https://github.com/armando-rios">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armando-rios&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armando-rios&layout=compact&theme=transparent" alt="Top Languages" />
   </a>
 </p>
 
