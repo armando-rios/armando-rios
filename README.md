@@ -6,8 +6,6 @@ Frontend Developer with a growing focus on Backend technologies , dedicated to b
 
 Constantly evolving toward a Full Stack Developer role, I specialize in optimizing workflows and implementing best coding practices.
 
----
-
 ## 🛠️ Technical Skills
 
 My main technology stack and the tools I actively work with include:
@@ -17,8 +15,6 @@ My main technology stack and the tools I actively work with include:
     <img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,astro,nodejs,express,mongodb,postgresql,docker,githubactions" alt="Core Skills" />
   </a>
 </p>
-
----
 
 ## 🌱 Always Learning
 
@@ -30,8 +26,6 @@ The world of technology evolves rapidly, and I strive to stay current. Currently
   </a>
 </p>
 
----
-
 ## ✨ Interests and Focus
 
 Beyond specific technologies, my interests lie in:
@@ -42,8 +36,6 @@ Beyond specific technologies, my interests lie in:
 -   **Web Security:** Understanding and applying security principles in development.
 -   **Automation:** Improving workflows with tools like GitHub Actions.
 
----
-
 ## 📈 My GitHub Stats
 
 An overview of my activity and the languages I use most:
@@ -53,8 +45,6 @@ An overview of my activity and the languages I use most:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armando-rios&layout=compact&theme=transparent" alt="Top Languages" />
   </a>
 </p>
-
----
 
 ## 🤝 Let's Connect
 
