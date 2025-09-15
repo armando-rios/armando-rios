@@ -1,12 +1,18 @@
 # 👋 Hi there! I'm Armando Rios
 
+### Frontend Developer → Backend Focus → Full Stack Journey
+
 Welcome to my GitHub profile!
 
-Frontend Developer with a growing focus on Backend technologies , dedicated to building high-impact experiences with robust functionality and performance.
+Building high-impact web experiences with robust functionality and performance.
 
-Constantly evolving toward a Full Stack Developer role, I specialize in optimizing workflows and implementing best coding practices.
+**Currently:** Evolving toward Full Stack development • Optimizing workflows • Implementing best practices
 
 ## 🛠️ Technical Skills
+
+```bash
+$ ls ~/tech-stack/
+```
 
 My main technology stack and the tools I actively work with include:
 
@@ -18,6 +24,10 @@ My main technology stack and the tools I actively work with include:
 
 ## 🌱 Always Learning
 
+```bash
+$ cat learning-queue.txt
+```
+
 The world of technology evolves rapidly, and I strive to stay current. Currently, I am dedicating time to explore and deepen my knowledge in areas and technologies such as:
 
 <p align="center">
@@ -28,15 +38,23 @@ The world of technology evolves rapidly, and I strive to stay current. Currently
 
 ## ✨ Interests and Focus
 
-Beyond specific technologies, my interests lie in:
+```bash
+$ cat interests.txt
+```
 
--   **Software Architecture:** Designing robust and scalable systems.
--   **Performance Optimization:** Ensuring applications are fast and efficient.
--   **Development Best Practices:** Writing clean, testable, and maintainable code.
--   **Web Security:** Understanding and applying security principles in development.
--   **Automation:** Improving workflows with tools like GitHub Actions.
+```
+📐 Software Architecture     → Designing robust and scalable systems
+⚡ Performance Optimization  → Ensuring applications are fast and efficient
+🔧 Development Best Practices → Writing clean, testable, and maintainable code
+🔒 Web Security             → Understanding and applying security principles
+🤖 Automation              → Improving workflows with tools like GitHub Actions
+```
 
 ## 📈 My GitHub Stats
+
+```bash
+$ github-stats --user=armando-rios --format=visual
+```
 
 An overview of my activity and the languages I use most:
 
@@ -50,5 +68,9 @@ An overview of my activity and the languages I use most:
 
 I'm always open to collaborating on interesting projects, sharing knowledge, or simply connecting with other professionals in the field. If you have an idea or just want to say hi, feel free to reach out.
 
--   [LinkedIn](https://linkedin.com/in/armando-rios-dev) -   [Email](mailto:armandorios.dev@gmail.com)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-rios-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandorios.dev@gmail.com)
+
+</div>
